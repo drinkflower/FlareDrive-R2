@@ -4,7 +4,6 @@
     <div class="powered">Powered by <a href="https://drinkflower.asia/" target="_blank"
         rel="noopener noreferrer">drinkflower</a></div>
 
-    <div style="margin:10px 0;">© 2025 FlareDrive. All rights reserved.</div>
   </footer>
 </template>
 
